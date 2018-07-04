@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Event renders correctly 1`] = `
+<componentToTest
+  mockData={
+    Object {
+      "eventTime": "time",
+      "eventTitle": "title",
+      "eventUrl": "https://www.transparentclassroom.com/",
+      "imgUrl": "https://media.istockphoto.com/photos/red-apple-picture-id495878092?k=6&m=495878092&s=612x612&w=0&h=q9k5jN-1giBGZgTM6QhyKkPqtGf6vRpkgDzAwEz9DkY=",
+    }
+  }
+/>
+`;
+
+exports[`EventContainer renders correctly 1`] = `<componentToTest />`;
